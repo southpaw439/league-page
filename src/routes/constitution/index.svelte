@@ -234,12 +234,12 @@
  
 	<p>Lottery Odds:</p>
     <ul>
-        <li>1: 42%$</li>
-        <li>2: 27%$</li>
-        <li>3: 14%$</li>
-        <li>4: 10%$</li>
-        <li>5: 5%$</li>
-        <li>6: 2%$</li>	
+        <li>1: 42%</li>
+        <li>2: 27%</li>
+        <li>3: 14%</li>
+        <li>4: 10%</li>
+        <li>5: 5%</li>
+        <li>6: 2%</li>	
 	
     <h3 bind:this={twoTwo}>2.2 Rookie Drafts</h3>
     <p>Rokkie drafts will consist of 4 round of drafting, with 5 minutes alotted for each pick.</p>
@@ -294,9 +294,9 @@
     <h3 bind:this={sevenTwo}>7.2 Payout</h3>
     <p>League payout is structured as follows:</p>
     <ul>
-        <li>1st place: {dues * 8}$</li>
-        <li>2nd place: {dues * 3}$</li>
-        <li>3rd place: {dues}$</li>
+        <li>1st place: {dues * 8.4}$</li>
+        <li>2nd place: {dues * 3.6}$</li>
+      
     </ul>
     <p>In the event that a manager was fined due to late payment, their extra fee will be added to the winner's payout. Similarly, if new managers come into the league and the payout is smaller, the difference will come out of the winner's prize.</p>
     
