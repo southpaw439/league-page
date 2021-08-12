@@ -231,7 +231,16 @@
     
     <h3 bind:this={twoOne}>2.1 Draft Order</h3>
     <p>The draft order each year will be determinded by lottery. Odds will be given based reverse order of the previous year’s total potential points. Teams that make the playoffs will be determined by reverse order of the regular season record</p>
-
+ 
+	<p>Lottery Odds:</p>
+    <ul>
+        <li>1: 42%$</li>
+        <li>2: 27%$</li>
+        <li>3: 14%$</li>
+        <li>4: 10%$</li>
+        <li>5: 5%$</li>
+        <li>6: 2%$</li>	
+	
     <h3 bind:this={twoTwo}>2.2 Rookie Drafts</h3>
     <p>Rokkie drafts will consist of 4 round of drafting, with 5 minutes alotted for each pick.</p>
     <p>Any spots not filled during the draft, can be filled immediately afterwards from the waiver wire.</p>
