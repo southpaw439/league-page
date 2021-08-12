@@ -6,7 +6,7 @@ export const dynasty = true; // true for dynasty leagues, false for redraft and 
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Founded in 2017, the Dynasty league began as an offshoot of the Penny Pinchers league which has been around since 2008. </p>
+  <p>Founded in 2019, the Dynasty league began as an offshoot of the Penny Pinchers league which has been around since 2008. </p>
   <p>While every owner is a fantasy veteran, none of the owners had participated in a dynasty league before, leading to a wide variety of strategies. Some managers built immediate win-now teams, while others began the slow process of building a juggernaut dynasty team. A portion of the league prioritized youth and draft picks, the rest gravitated towards the steadfast value of veterans. While some managers fled from injuries and down years, others bought the dip and built for the future.</p>
   <p>While the ultimate prize is bragging rights and sending obnoxious texts to the rest of the league for the next year, the champion manager also walks away with $500 and the last place manager ships the Legends Cup to the new champion.</p>
 `;
